@@ -104,20 +104,7 @@ As an analytic consultant, my passion for data analysis and my background in eco
 <td>Dev Repository</td>
 </tr>
 
-<<<<<<< HEAD
 
-=======
-<tr>
-<td>1</td>
-<td>Streamlit Favorita App</td>
-<td>Built a sales prediction app using streamlit</td>
-<td><a href="https://www.linkedin.com/pulse/how-build-streamlit-app-favorita-grocery-sales-forecasting-oiro">How to Build a Streamlit App for Favorita Grocery Sales Forecasting Using Regression Model</a></td>
-
-<td>Add the deployed app link here...</td>
-<td><a href="https://www.linkedin.com/pulse/how-build-streamlit-app-favorita-grocery-sales-forecasting-oiro">How to Build a Streamlit App for Favorita Grocery Sales Forecasting Using Regression Model</a></td>
-<td><a href="https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb">Stremlit App</a></td>
-<td><a href="https://github.com/Stella-Achar-Oiro/Streamlit-Favorita-App/blob/main/Streamlit_Favorita_App_py.ipynb">Stremlit App</a></td>
->>>>>>> a06f48644232cadc8ba93c78743e094d17b661e4
 </tr>
 
 <tr>
